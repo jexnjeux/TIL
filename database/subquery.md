@@ -278,3 +278,5 @@ WHERE E.id = W.empl_id and W.proj_id <> ALL (
 #### v comparison_operator ALL (subquery)
 
 subquery가 반환한 결과들과 v와의 비교 연산이 모두 true면 true를 반환한다.
+
+🔗 [**(2부) SQL로 데이터 조회하기**](https://www.youtube.com/watch?v=lwmwlA2WhFc) 를 통해 공부하였습니다.
