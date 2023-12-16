@@ -7,7 +7,7 @@
 
 ## Java
 
-- [객체지향 프로그래밍1](https://github.com/jexnjeux/TIL/blob/main/java/객체지향%20프로그래밍1.md)
+- [클래스와 인스턴스](https://github.com/jexnjeux/TIL/blob/main/java/클래스와%20인스턴스.md)
 
 ## Spring
 
