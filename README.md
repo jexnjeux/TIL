@@ -4,6 +4,7 @@
 
 - [subquery](https://github.com/jexnjeux/TIL/blob/main/database/subquery.md)
 - [join](https://github.com/jexnjeux/TIL/blob/main/database/join.md)
+- [stored function](https://github.com/jexnjeux/TIL/blob/main/database/stored_function.md)
 
 ## Java
 
