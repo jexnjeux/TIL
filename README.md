@@ -15,3 +15,4 @@
 ## Spring
 
 - [ORM](https://github.com/jexnjeux/TIL/blob/main/spring/ORM.md)
+- [영속성](https://github.com/jexnjeux/TIL/blob/main/spring/영속성.md)
