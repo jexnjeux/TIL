@@ -19,3 +19,4 @@
 - [ORM](https://github.com/jexnjeux/TIL/blob/main/spring/ORM.md)
 - [영속성](https://github.com/jexnjeux/TIL/blob/main/spring/영속성.md)
 - [엔티티 매핑](https://github.com/jexnjeux/TIL/blob/main/spring/엔티티매핑.md)
+- [연관관계 매핑](https://github.com/jexnjeux/TIL/blob/main/spring/연관관계매핑.md)
