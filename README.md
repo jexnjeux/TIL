@@ -12,6 +12,7 @@
 - [오버로딩](https://github.com/jexnjeux/TIL/blob/main/java/오버로딩.md)
 - [생성자](https://github.com/jexnjeux/TIL/blob/main/java/생성자.md)
 - [변수 초기화](https://github.com/jexnjeux/TIL/blob/main/java/변수초기화.md)
+- [클래스 관계](https://github.com/jexnjeux/TIL/blob/main/java/클래스%20관계.md)
 
 ## Spring
 
