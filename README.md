@@ -20,3 +20,7 @@
 - [영속성](https://github.com/jexnjeux/TIL/blob/main/Spring/JPA/영속성.md)
 - [엔티티 매핑](https://github.com/jexnjeux/TIL/blob/main/Spring/JPA/엔티티%20매핑.md)
 - [연관관계 매핑](https://github.com/jexnjeux/TIL/blob/main/Spring/JPA/연관관계%20매핑.md)
+
+## Front-End
+
+- [SSR / CSR / SSG](https://github.com/jexnjeux/TIL/blob/main/Front-End/SSR_CSR_SSG.md)
